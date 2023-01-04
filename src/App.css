@@ -134,7 +134,27 @@ body {
 }
 
 #skills{
-  background-image: url('../src/images/skillsBg.svg');
+  /* background-image: url('../src/images/skillsBg.svg'); */
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+/* 
+#leetcodeProfile{
+  margin: 20px;
+  border-radius: 20px;
+  padding: 20px;
+  /* justify-content: center; */
+  /* justify-content: center;  */
+  /* justify-content: center; */
+/* } */
+
+
+/* #githubProfile{
+  margin: 20px;
+  border-radius: 20px;
+  padding: 20px;
+  /* justify-content: center; */
+  /* justify-content: center;  */
+  /* justify-content: center; */
+/* } */

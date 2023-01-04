@@ -122,6 +122,19 @@ export const Skills = () => {
                     </div>
                 </div>
             </div>
+                {/* <div class="project-heading container">
+                    <div class="row">
+                        <h1>Days I<b class="highlight"> Code</b></h1>
+                    </div>
+                    <div class="row" style={{marginTop: "20px"}}>
+                        <div class="col" style={{justifyContent: "center" }} id="leetCodeProfile">
+                            <img src="https://leetcode.card.workers.dev/sahilduhan?theme=light&amp;font=baloo&amp;extension=null" class="leetcodestat" alt="leetcodestat"/>
+                        </div>
+                    <div class="col" style={{justifycontent: "center" }} id="githubProfile">
+                        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&Background=F8F8F8&Text=0563BB">    <img  alt="sahilduhan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sahilduhan?cardType=github&Background=F8F8F8&Text=0563BB" />  </a>
+                    </div>
+                </div>
+            </div> */}
         </div>
     </section>
     )
