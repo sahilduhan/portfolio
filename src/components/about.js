@@ -40,7 +40,7 @@ export const About = () => {
                             </div>
                         </div>
                     <p>
-                    Hey Buddy, This is Sahil Duhan currently pursuing my bachellors of technology from Delhi Technological University in Software Engineering, and i love to code
+                    Tech Stack: - C++ with STL, Python3, Typescript, Javascript, HTML, ReactJs, ExpressJS, NodeJS, MongoDB, AJAX, Rest API, Git, Github, Agile & Scrum methodologies.
                     </p>
             </div>
             </div>

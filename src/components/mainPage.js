@@ -1,13 +1,14 @@
 import React from 'react'
 import { Icon } from '@iconify/react';
  
+
 export const MainPage = () => {
     const newPageUrl = "https://drive.google.com/file/d/1fJjYJEUAfSBUKTibt_f-d4PIfT_Yz3SS/view?usp=share_link";
     const handleClick = ()=>{
         window.open(newPageUrl, "_blank")
     }
     return (
-        <div>
+        <div id='app'>
             <section id="hero" className="d-flex flex-column justify-content-center">
                 <div className="container" data-aos="zoom-in" data-aos-delay="100">
                     <h1>SAHIL DUHAN</h1>

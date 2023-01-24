@@ -38,15 +38,15 @@ export const Skills = () => {
                     <div class="feature_item" data-aos="flip-up" data-aos-delay="100">
                         <img src= {img3} alt="Machine Learning -  "/>
                         <h4>Machine Learning</h4>
-                        <p>Wokring knowledge and experience of Machine Learning Algorithms, Probability, Statistics,
-                            numpy, scikit learn, pandas, matplotlib and many more.</p>
+                        <p>Wokring knowledge and experience of Machine Learning Algorithms,
+                            numpy, scikit learn, pandas, nltk, matplotlib and many more.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="feature_item" data-aos="flip-down" data-aos-delay="100">
                         <img src= {img4} alt=" "/>
                         <h4>Competative Programmer</h4>
-                        <p>Participated in various Competative Programming contest, having the highest rating of 1690 on CodeChef
+                        <p>Participated in various Competative Programming contest, having the highest rating of 1737 on CodeChef and 1200+ on codeforces
                         </p>
                     </div>
                 </div>
@@ -114,7 +114,7 @@ export const Skills = () => {
                             <div class="progress-bar color-4"  style={{width: "65%"} } aria-valuenow="30 " aria-valuemin="0 " aria-valuemax="100 "></div>
                         </div>
                     </div>
-                    <h4>Probability &amp; Statistics</h4>
+                    <h4>DBMS &amp; Operating stsyem</h4>
                     <div class="percentage pb-4 ">
                         <div class="progress ">
                             <div class="progress-bar color-4"  style={{width: "85%"} } aria-valuenow="30 " aria-valuemin="0 " aria-valuemax="100 "></div>

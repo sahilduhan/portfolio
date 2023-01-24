@@ -24,6 +24,14 @@ export const PROJECT = [
     color:'pink',
     link:'https://github.com/sahilduhan/WeatherApp',
   },
+  {
+    shape:'',
+    icon:'bx bx-heart',
+    title:'Covid Tracker',
+    description:'Created a Superfast Live Covid tracker application using ReactJs and Covid Api (By government of india) ',
+    color:'yellow',
+    link:'https://github.com/sahilduhan/covid-tracker',
+  },
   // {
   //   shape:'',
   //   icon:'bx bx-layer',

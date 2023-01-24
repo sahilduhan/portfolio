@@ -25,7 +25,7 @@ export const Projects = () => {
                         <div dangerouslySetInnerHTML={{__html: `${project.shape}`}} /> 
                         <i className={`${project.icon}`}></i>
                       </div>
-                      <h4><a href={project.link} target="">{project.title} {index + 1}</a></h4>
+                      <h4><a href={project.link} target="blank">{project.title}</a></h4>
                       <p>{project.description}</p>
                     </div>
                   </div>
