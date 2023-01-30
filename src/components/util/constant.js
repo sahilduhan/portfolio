@@ -34,7 +34,7 @@ export const PROJECT = [
     description:
       "Created a robust, fully functional and scalable web based weather application using Html, Css, javaScript and RapidApi",
     color: "pink",
-    link: "https://github.com/sahilduhan/WeatherApp",
+    link: "https://github.com/sahilduhan/weather-application",
   },
 
   {
