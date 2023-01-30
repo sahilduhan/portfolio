@@ -8,16 +8,25 @@ export const PROJECT = [
     color: "blue",
     link: "https://tourmaline-crostata-b29496.netlify.app",
   },
-
   {
     shape: "",
-    icon: "bx bx-file",
-    title: "LoginWithFace",
+    icon: "bx bx-heart",
+    title: "Covid Tracker",
     description:
-      "Created a robust, fully functional and scalable web based facial log in/ sign up web application using Html, Css, Javascript and Python",
-    color: "orange",
-    link: "https://github.com/sahilduhan/LoginWithFace",
+      "Created a Superfast Live Covid tracker application using ReactJs and Covid Api (By government of india) ",
+    color: "yellow",
+    link: "https://eclectic-twilight-ccd3a9.netlify.app/",
   },
+  {
+    shape: "",
+    icon: "bx bx-tachometer",
+    title: "Weather App",
+    description:
+      "Created a robust, fully functional and scalable web based weather application using Html, Css, javaScript and RapidApi",
+    color: "pink",
+    link: "https://hilarious-blancmange-3b9cfb.netlify.app/",
+  },
+
   {
     shape: "",
     icon: "bx bx-task",
@@ -29,22 +38,12 @@ export const PROJECT = [
   },
   {
     shape: "",
-    icon: "bx bx-tachometer",
-    title: "Weather App",
+    icon: "bx bx-file",
+    title: "LoginWithFace",
     description:
-      "Created a robust, fully functional and scalable web based weather application using Html, Css, javaScript and RapidApi",
-    color: "pink",
-    link: "https://github.com/sahilduhan/weather-application",
-  },
-
-  {
-    shape: "",
-    icon: "bx bx-heart",
-    title: "Covid Tracker",
-    description:
-      "Created a Superfast Live Covid tracker application using ReactJs and Covid Api (By government of india) ",
-    color: "yellow",
-    link: "https://github.com/sahilduhan/covid-tracker",
+      "Created a robust, fully functional and scalable web based facial log in/ sign up web application using Html, Css, Javascript and Python",
+    color: "orange",
+    link: "https://github.com/sahilduhan/LoginWithFace",
   },
   {
     shape: "",
